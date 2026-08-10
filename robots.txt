@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: top-kazino-na-dengi.github.io
+Sitemap: https://top-kazino-na-dengi.github.io/sitemap.xml
